@@ -1,4 +1,4 @@
 # ignore node_module directory
 node_module/
-
+.env
 #other entries...
